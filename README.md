@@ -1,1 +1,2 @@
 # Econometria Financiera
+Este documento titulado **"ECONOMETRÍA FINANCIERA - Modelos univariados de volatilidad"** comprende una exploración detallada de los modelos de volatilidad univariados en econometría financiera. Este cuaderno está diseñado para proporcionar información y aplicaciones prácticas para la estimación de modelos de volatilidad.
